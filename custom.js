@@ -8,8 +8,6 @@ const observer = new MutationObserver(setHeights);
 
 /*
  TODO:
-        Make it dynamic: (on new tab: redo this) https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
-        
         Adjust pinnedTab image.
             - give <img> the class="imgCenter" OR just give it inline Style
             - copy <img> to <div> with class="tab pinned force-hover button-off"

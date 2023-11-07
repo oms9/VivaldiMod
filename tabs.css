@@ -1,13 +1,3 @@
-.imgCenter {
-    display: block;
-    width: 48px;
-    height: 48px;
-    margin-left: 4px;
-    margin-top: 5.2px;
-    width: 48px;
-    height: 48px;
-}
-
 #browser.color-behind-tabs-on .tab-position .tab.active.active {
     background-color: #7b7b7b;
     color: #FFFFFF;
